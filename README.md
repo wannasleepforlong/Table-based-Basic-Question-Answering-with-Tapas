@@ -7,3 +7,9 @@ Features
 - Get answer: Upon submitting the query, the application uses the TAPAS model to extract the answer from the uploaded CSV data.
 
 ![image](https://github.com/wannasleepforlong/Basic-Question-Answerer-distilBERT/assets/109717763/decc9ae3-2bad-4c75-8e87-09b33df71f52)
+
+Installation
+-To reproduce this:
+  - Clone the repositiry
+  - Install neccessary libraries
+  - Open cmd in the main directory and run `streamlit app.py`

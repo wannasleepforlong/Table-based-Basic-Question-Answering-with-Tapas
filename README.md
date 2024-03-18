@@ -1,4 +1,4 @@
-# Table-based Basic Question-Answerer with Tapas
+# Table-based Basic Question-Answering with Tapas
 This project is a simple web application built with Streamlit that allows users to upload a CSV file containing tabular data, input a query related to the data, and receive an answer based on the query using the TAPAS (Table-based Pretraining and Answering System) model.
 
 Features

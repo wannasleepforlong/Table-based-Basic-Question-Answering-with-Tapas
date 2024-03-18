@@ -12,4 +12,4 @@ Installation
 -To reproduce this:
   - Clone the repositiry
   - Install neccessary libraries
-  - Open cmd in the main directory and run `streamlit app.py`
+  - Open cmd in the main directory and run `streamlit run app.py`
